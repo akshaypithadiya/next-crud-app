@@ -1,3 +1,4 @@
-# Next.js CRUD Application
+# Next.js CRUD API
 
-YouTube - https://www.youtube.com/watch?v=wNWyMsrpbz0
+## Resources
+- YouTube - https://www.youtube.com/watch?v=wNWyMsrpbz0
